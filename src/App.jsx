@@ -380,7 +380,7 @@ export default function Portfolio() {
             </h1>
 
             <p className="intro-para" style={{ fontSize: 16, color: "var(--text-muted)", lineHeight: 1.85, marginBottom: 22 }}>
-              I'm a second-year Electronics & Telecommunication Engineering student at{" "}
+              I'm a third-year Electronics & Telecommunication Engineering student at{" "}
               <span style={{ color: "var(--text)" }}>IIIT Bhubaneswar</span>, passionate about building robust and scalable web applications.
               My journey into software development started with curiosity about how large platforms handle millions of users — and that curiosity has never stopped driving me forward.
             </p>
